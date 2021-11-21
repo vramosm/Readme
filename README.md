@@ -1,9 +1,7 @@
 # Hi Fellow Devs 👋
 
-I´m Víctor Ramos Manzano, a junior software developer from Madrid, Spain.
-I love the world of technology and I would like to dedicate my life to software development.
-
-
+I´m Víctor Ramos Manzano, a junior fullstack developer from Madrid, Spain.
+A few years ago I realized that I wanted to focus my efforts on being useful. For this reason I made a change in my life and decided to focus on working in what I am passionate about: programming languages and systems.
 
 ![image](https://user-images.githubusercontent.com/91912284/142745222-28d59ab5-6d6a-4525-af8f-5f27936c0ac2.png)
 
@@ -11,9 +9,9 @@ I love the world of technology and I would like to dedicate my life to software 
 <img align="right" src="https://cdn.estegrafico.com/images/web-development.gif" width="350" height="400" />
 <ul>
 <li>🔭 I’m currently studying App Development.</li>
-<li>🧐 Learning about Java, Javascript, C#, swift...</li>
-<li>📢	I love the world of technology, web design and Android and iOS platforms.</li>
-<li>📝 Interested in training in cloud services</li>
+<li>🧐 Learning about Java, Javascript, C#, swift...I’m currently learning everything!</li>
+<li>📢 I love the world of technology.</li>
+<li>📝 To disconnect, I like to go for a run and not think about anything</li>
 <li>👨‍💻 Most of my little projects are available on Github.</li>
 </ul>
 
